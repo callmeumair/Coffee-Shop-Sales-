@@ -1,1 +1,3 @@
 # Coffee-Shop-Sales-
+Project Overview:
+The goal of this project is to analyze sales data from a coffee shop using Microsoft Excel. The dataset includes information such as daily sales, types of products sold, customer feedback, and promotional activities. The analysis will focus on understanding sales trends, identifying top-selling products, evaluating the impact of promotions, and providing actionable insights to improve business performance.
